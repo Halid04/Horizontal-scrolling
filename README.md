@@ -1,4 +1,4 @@
-#My Journey to Becoming a Web Developer: Project 1 - Horizontal-scrolling
+# My Journey to Becoming a Web Developer: Project 1 - Horizontal-scrolling
 This code creates a horizontally scrolling website with a fixed header text and multiple background colors. The header text is positioned in the center of the page and has a defined width, font size, color, and background color. The background colors are contained within separate div elements and are stacked within a parent container element to create a continuous scrolling effect.
 
 The body and html elements have a width and height of 100% and a margin of 0 to ensure that the website takes up the full screen. The container element is set to have a height and width of 100% and has its overflow property set to hidden to prevent any unwanted vertical scrolling.
